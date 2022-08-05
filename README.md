@@ -24,7 +24,7 @@ Access the Solution and chose "Manage Nuget Packages for Solution" to install th
 - NUnit
       Designed to run Automated testing
 
-## Run App
+## Run REST API
 Install the Github file move to the following directory CoolblueASP\Coolblue\Coolblue.sln
 Run the **Coolblue.sln**
 
