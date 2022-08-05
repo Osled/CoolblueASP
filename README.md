@@ -29,7 +29,7 @@ Install the Github file move to the following directory CoolblueASP\Coolblue\Coo
 Run the **Coolblue.sln**
 
 to access the App with Visual Studio, press the Run/Play **IIS Express** button in visual studio a web browser will open up. 
-
+a [https://localhost:44394/] Local Host will start up on a default browser.
 
 ## Design Choices
 ### Interface
