@@ -209,7 +209,7 @@
     <Content Include="Views\ItemModels\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApiHelper.cs" />
+    <Compile Include="API\ApiHelper.cs" />
     <Compile Include="NUnitTests\DataProcessorTests.cs" />
     <Compile Include="NUnitTests\ApiHelperTests.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
@@ -270,7 +270,6 @@
     <Compile Include="NUnitTests\_DefaultTests.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="API\" />
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
   </ItemGroup>
