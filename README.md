@@ -25,7 +25,7 @@ Access the Solution and chose "Manage Nuget Packages for Solution" to install th
       Designed to run Automated testing
 
 ## Run REST API
-Install the Github file move to the following directory CoolblueASP\Coolblue\Coolblue.sln
+Install the Folder from Github, move to the following directory CoolblueASP\Coolblue\Coolblue.sln
 Run the **Coolblue.sln**
 
 to access the App with Visual Studio, press the Run/Play **IIS Express** button in visual studio a web browser will open up. 
