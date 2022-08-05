@@ -33,7 +33,7 @@ a [https://localhost:44394/] Local Host will start up on a default browser.
 
 ## Design Choices
 ### Interface
-The Website runs three WebForms named as Defult, IDfull, IdType all three pages can be accessed through the navegation menu
+The Website runs three WebForms named as Default, IDfull, IdType all three pages can be accessed through the navegation menu
 
 - The Default page hosts Task 1 from the assignment
               - Input ID number of the product. 
