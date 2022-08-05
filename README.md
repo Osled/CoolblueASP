@@ -1,7 +1,7 @@
 # Coolblue Assignment REST API 
 ## Introduction
 ### The soltion is Designed to run a REST API using HTTP host that presents the Coolblue products information by searching the product ID and Type ID. the end-point is the Name of the products, ID, SalePrice, Product ID Type,  Product Type, Can be Insured, Insurance calculated cost. 
-The API runs using a combination of C#, HTML, css, ASP.NET.
+The API runs using a combination of C#, HTML, CSS, ASP.NET.
 
 ## Setup
 ### Installation
